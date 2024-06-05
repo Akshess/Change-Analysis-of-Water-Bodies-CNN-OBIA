@@ -1,4 +1,5 @@
 # Change-Analysis-of-Water-Bodies-CNN-OBIA
+As a part of Academic Final year Project, My team had chose this project to get hands on with the remote sensing datasets and also to get the greater knowledge on how the satellite imageries can be utilzed to make fine analysis and get the insights.
 
 # Objectives
 &nbsp;&nbsp;  Change analysis of Water Bodies Using CNN and OBIA is a project focused on using satellite imagery to classify the water bodies and land mass using CNN model. Then using OBIA to check the rate of difference in the water bodies from 2018 to 2024 using the NWDI images of sentinel - 2 satellite obtained from [Copernicus Hub ](https://scihub.copernicus.eu/) and [Sentinel Hub](https://www.sentinel-hub.com/) . In the given websites links you can prepare your own mask layers to get the required masks over the maps or you can use the already prepared images which basically prepared by using the band values using which the sentinel images have captured the images.\
